@@ -1,0 +1,32 @@
+Uri: https://casher14.win/
+File Name: C:\Downloaded Web Sites\casher14.win\index.htm
+Content Type: text/html
+
+Uri: https://casher14.win/favicon.ico
+File Name: C:\Downloaded Web Sites\casher14.win\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://casher14.win/svg/logo.svg
+File Name: C:\Downloaded Web Sites\casher14.win\svg\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://casher14.win/_nuxt/0b7e6a7.js
+File Name: C:\Downloaded Web Sites\casher14.win\_nuxt\0b7e6a7.js
+Content Type: application/javascript
+
+Uri: https://casher14.win/_nuxt/3b19559.js
+File Name: C:\Downloaded Web Sites\casher14.win\_nuxt\3b19559.js
+Content Type: application/javascript
+
+Uri: https://casher14.win/_nuxt/70769b5.js
+File Name: C:\Downloaded Web Sites\casher14.win\_nuxt\70769b5.js
+Content Type: application/javascript
+
+Uri: https://casher14.win/_nuxt/c7db61c.js
+File Name: C:\Downloaded Web Sites\casher14.win\_nuxt\c7db61c.js
+Content Type: application/javascript
+
+Uri: https://telegram.org/js/telegram-web-app.js?56
+File Name: C:\Downloaded Web Sites\casher14.win\js\telegram-web-app.js
+Content Type: application/javascript
+
